@@ -3,9 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Axel´s Personal Site</title>
 </head>
-
 <body>
   <table cellspacing="20">
     <tr>
@@ -86,20 +84,8 @@
       <li>Telefon: 0732504227</li>
       <li>Mail: Axel.soderberg1996@gmail.com</li>
       <li>Instagram: Axelaws</li>
-
       <hr>
-
-      <form  action="mailto:axel.soderberg1996@gmail.com" method="post" enctype="text/plain">
-        <label>Ditt Namn</label>
-        <input type="text" name="yourname" value=""><br>
-        <label>E-Mail</label>
-        <input type="email" name="youremail" value=""> <br>
-        <label>Ditt meddelande</label> <br>
-        <textarea name="text" rows="10" cols="30"></textarea> <br>
-        <input type="submit" name="" >
-      </form>
-    </ul>
-  </body>
+      </body>
 </html>
 
 
