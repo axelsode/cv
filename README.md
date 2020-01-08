@@ -76,7 +76,6 @@
   <head>
     <title>Kontakt uppgifer</title>
     <meta charset="utf-8">
-    <title>Kontakt uppgifter</title>
   </head>
   <body>
     <h3>Kontakt uppgifter</h3>
@@ -93,7 +92,6 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Fritids intressen</title>
   </head>
   <body>
     <h1>Fritids intressen</h1>
