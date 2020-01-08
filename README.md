@@ -65,8 +65,8 @@
 
   </table>
   <hr>
-  <h4><a href="Fritid.html">Fritids intressen</a></h4>
-  <h4><a href="Kontakt.html">Kontakt uppgifter</a></h3>
+  <h4>Fritidsintressen</h4>
+  <h4>Kontakt</h3>
 </body>
 
 </html>
