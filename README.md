@@ -18,7 +18,7 @@
     </tr>
   </table>
 
-  <hr size="3" , noshade>
+  <hr size="3",noshade>
   <h3><strong>Utbildning</strong></h3>
   <ul>
     <li> Borgå gymnasium</li>
