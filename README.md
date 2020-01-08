@@ -74,7 +74,6 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
-    <title>Kontakt uppgifer</title>
     <meta charset="utf-8">
   </head>
   <body>
